@@ -7,14 +7,9 @@
 - [Johannes P.](https://github.com/joeherold)
 - [Alexander G.](https://github.com/alexandergeischlaeger)
 
-<<<<<<< HEAD
-"Das wird einen Konflikt auslösen."
 - Fabian Petrovic
 =======
 Aufgabe 6 - Johannes Pichler, Tick Trick und Track
-
->>>>>>> 138866eece6ba449df9e4191dd9d80ccc47098c2
-
 
 
 
