@@ -7,8 +7,33 @@
 - [Johannes P.](https://github.com/joeherold)
 - [Alexander G.](https://github.com/alexandergeischlaeger)
 
+<<<<<<< HEAD
+"Das wird einen Konflikt auslösen."
+- Fabian Petrovic
+=======
+Aufgabe 6 - Johannes Pichler, Tick Trick und Track
+
+>>>>>>> 138866eece6ba449df9e4191dd9d80ccc47098c2
+
+
+
+
+
+
+
+
+
+
+
+
 ## Instructions
 
 Change
 
 [Link to Instructions](https://fhwzid-my.sharepoint.com/personal/rene_schakmann_edu_fh-wien_ac_at/_layouts/15/onedrive.aspx?csf=1&e=aCWs5f&cid=c5b04880-d279-48a1-a03e-6a68423247a8&FolderCTID=0x012000B2378A8437F9114D868C443108D33409&id=/personal/rene_schakmann_edu_fh-wien_ac_at/Documents/EA/06-UE-GIT.pdf&parent=/personal/rene_schakmann_edu_fh-wien_ac_at/Documents/EA)
+
+### Aufgabe 7.
+
+### Hier steht belangloser Text.
+
+#### Ich hoffe Corona geht schnell vorbei:
