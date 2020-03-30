@@ -7,8 +7,8 @@
 - [Johannes P.](https://github.com/joeherold)
 - [Alexander G.](https://github.com/alexandergeischlaeger)
 
-Aufgabe 6 - Johannes
-
+"Das wird einen Konflikt auslösen."
+- Fabian Petrovic
 
 
 
