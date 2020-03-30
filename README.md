@@ -6,7 +6,7 @@
 - [Nicolas C.](https://github.com/thenic95)
 - [Johannes P.](https://github.com/joeherold)
 - [Alexander G.](https://github.com/alexandergeischlaeger)
-Aufgabe 6 - Fabian
+Aufgabe 6 - Johannes
 
 
 
