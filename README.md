@@ -7,7 +7,7 @@
 - [Johannes P.](https://github.com/joeherold)
 - [Alexander G.](https://github.com/alexandergeischlaeger)
 
-Aufgabe 6 - Johannes
+Aufgabe 6 - Johannes Pichler, Tick Trick und Track
 
 
 
